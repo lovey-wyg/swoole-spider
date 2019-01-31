@@ -1,5 +1,5 @@
 {
-    "name": "spider-wyg",
+    "name": "wyg/swoole-spider",
     "description": "这是一个swoole开发的爬虫",
     "type": "project",
     "license": "MIT",
